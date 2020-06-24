@@ -16,11 +16,11 @@
                 </div>
                 <div >
             <button onclick="location.href='statusgizi'" class="btn btn-block btn-primary">
-                <i class="fa fa-plus"></i> >Status Gizi</button>
+                <i class="fa fa-plus"></i>Status Gizi Balita</button>
                 </div>
                  <div >
             <button onclick="location.href='index.html'" class="btn btn-block btn-primary">
-                <i class="fa fa-plus"></i>Kelola</button>
+                <i class="fa fa-plus"></i>Kelola Data Balita</button>
                 </div>
                 <button onclick="location.href='index.html'" type="submit" class="btn btn-block btn-primary">
                 <i class="fa fa-plus"></i> Kelola Data Kader</button>

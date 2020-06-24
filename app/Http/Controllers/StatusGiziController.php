@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 class StatusGiziController extends Controller
 {
     //
-    public function statusgizi(){
-    	return view('statusgizi');
+     public function index()
+    {
+        return view('statusgizi');
     }
 }
